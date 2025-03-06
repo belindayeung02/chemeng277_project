@@ -4,7 +4,7 @@
 
 This repository contains the implementation of our research project for CHEMENG277.  
 
-Our study explores machine learning-based approaches for predicting key optoelectronic metrics:HOMO-LUMO gap and spectral overlap, using easily extractable chemical features. By leveraging unsupervised (K-Means clustering, PCA) and supervised learning (neural networks), we demonstrate that machine learning models can significantly reduce computational costs associated with Density Functional Theory (DFT) calculations.
+Our study explores machine learning-based approaches for predicting key optoelectronic metrics: HOMO-LUMO gap and spectral overlap, using easily extractable chemical features. By leveraging unsupervised (K-Means clustering, PCA) and supervised learning (neural networks), we demonstrate that machine learning models can significantly reduce computational costs associated with Density Functional Theory (DFT) calculations.
 
 ## Repository Structure
 
