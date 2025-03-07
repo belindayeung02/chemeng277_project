@@ -30,4 +30,5 @@ Alternatively, these can be downloaded using Conda or Homebrew. While not strict
 
 And open the IDE environment with:
 - jupyter notebook
+
 No parameters should be necessary to run any of the cells.
