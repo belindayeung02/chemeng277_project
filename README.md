@@ -24,8 +24,10 @@ To run the code, download the training, validation, and test datasets as well as
 - SciPy: pip install scipy
 - Seaborn: pip install seaborn
 - MatPlotLib: pip install matplotlib
+
 Alternatively, these can be downloaded using Conda or Homebrew. While not strictly necessary, it is best to run each code cell individually in Jupyter Notebook or some other platform that works well with jupyter notebooks such as Google Colab. You can install Jupyter Notebook with the command:
 - pip install notebook
+
 And open the IDE environment with:
 - jupyter notebook
 No parameters should be necessary to run any of the cells.
