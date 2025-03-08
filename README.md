@@ -17,18 +17,18 @@ Our study explores machine learning-based approaches for predicting key optoelec
 ## Running The Code
 
 To run the code, download the training, validation, and test datasets as well as the Project Code notebook. For all functions to work properly, please be sure to install the following Python packages in your local environment using the corresponding commands:
-- Pandas: pip install pandas
-- Numpy: pip install numpy
-- RDKit: pip install rdkit-pypi
-- Scikit-learn: pip install scikit-learn
-- SciPy: pip install scipy
-- Seaborn: pip install seaborn
-- MatPlotLib: pip install matplotlib
+- Pandas: `pip install pandas`
+- Numpy: `pip install numpy`
+- RDKit: `pip install rdkit-pypi`
+- Scikit-learn: `pip install scikit-learn`
+- SciPy: `pip install scipy`
+- Seaborn: `pip install seaborn`
+- MatPlotLib: `pip install matplotlib`
 
 Alternatively, these can be downloaded using Conda or Homebrew. While not strictly necessary, it is best to run each code cell individually in Jupyter Notebook or some other platform that works well with jupyter notebooks such as Google Colab. You can install Jupyter Notebook with the command:
-- pip install notebook
+- `pip install notebook`
 
 And open the IDE environment with:
-- jupyter notebook
+- `jupyter notebook`
 
 No parameters should be necessary to run any of the cells.
